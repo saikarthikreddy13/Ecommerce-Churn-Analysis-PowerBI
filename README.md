@@ -1,24 +1,66 @@
-<img width="1161" height="645" alt="Screenshot 2026-03-17 153813" src="https://github.com/user-attachments/assets/cbb3f0ed-580e-4211-86b8-c9979ea6e2f1" /># 📊 
-<img width="1161" height="645" alt="Screenshot 2026-03-17 153813" src="<img width="1150" height="646" alt="Screenshot 2026-03-17 153827" src="https://github.com/user-attachments/assets/44428ae4-51b0-4ba0-a734-aaa41091bf8e" />
-<img width="1161" height="645" alt="Screenshot 2026-03-17 153813" src="<img width="1150" height="646" alt="<img width="1156" height="643" alt="Screenshot 2026-03-17 153839" src="https://github.com/user-attachments/assets/5de34459-af46-4451-8b47-951ba3a8f216" />
-" />
+# 📊 Ecommerce Customer Churn Analysis — Power BI
 
-" /># 📊 Ecommerce Customer Churn Analysis (Power BI)
+> An interactive Power BI dashboard analyzing customer churn patterns and behavior 
+> in an ecommerce platform to identify at-risk customers and key churn drivers.
 
-## 🚀 Project Overview
-This project analyzes customer churn and behavior using Power BI dashboards.
+---
 
-## 📌 Dashboard Pages
-1. Executive Overview  
-2. Churn Analysis  
-3. Customer Behavior Analysis  
+## 📌 Project Overview
+
+Customer churn is one of the biggest challenges in ecommerce. This project builds 
+a 3-page interactive Power BI dashboard to analyze churn trends, customer behavior, 
+and executive-level KPIs — helping business stakeholders make data-driven retention decisions.
+
+---
+
+## 📄 Dashboard Pages
+
+| Page | Description |
+|------|-------------|
+| 1. Executive Overview | High-level KPIs — total customers, churn rate, revenue impact |
+| 2. Churn Analysis | Churn breakdown by segment, category, and time period |
+| 3. Customer Behavior Analysis | Login frequency, cart abandonment, purchase patterns |
+
+---
 
 ## 🔍 Key Insights
-- High cart abandonment and low engagement lead to higher churn  
-- Customers with higher login frequency show higher purchases  
-- Churn patterns vary across customer segments  
 
-## 🛠️ Tools Used
-- Power BI  
-- DAX  
-- Data Cleaning  
+- High cart abandonment and low engagement are the strongest indicators of churn
+- Customers with higher login frequency show significantly higher purchase rates
+- Churn patterns vary across customer segments — certain demographics churn 2x more
+- Early identification of at-risk customers can reduce churn by targeting them with offers
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| Power BI Desktop | Dashboard development & visualization |
+| DAX | Calculated measures and KPIs |
+| Power Query | Data cleaning and transformation |
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Screenshot%202026-03-17%20153813.png)
+
+### Churn Analysis
+![Churn Analysis](Screenshot%202026-03-17%20153827.png)
+
+### Customer Behavior
+![Customer Behavior](Screenshot%202026-03-17%20153839.png)
+
+---
+
+## 🚀 How to Open
+
+1. Download `ecommerce_churn_prediction.pbix`
+2. Open with **Power BI Desktop** (free download from Microsoft)
+3. Explore all 3 dashboard pages using the navigation tabs at the bottom
+
+---
+
+## 📁 Project Structure
